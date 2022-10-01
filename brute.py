@@ -1,3 +1,6 @@
+# OPEN SOURCE
+# JANGAN LUPA CANTUM KAN NAMA AUTHOR
+
 import requests, os, re, sys, json, time, datetime,random
 from datetime import date 
 from concurrent.futures import ThreadPoolExecutor

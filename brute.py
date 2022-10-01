@@ -161,6 +161,6 @@ def brute(uid,pwx):
 		loop+=1
 	except requests.exceptions.ConnectionError: 
 		time.sleep(15)
-		brute(uid,pw)
+		brute(uid,pwx)
 		
 menu()
